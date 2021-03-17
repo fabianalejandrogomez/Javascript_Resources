@@ -1,8 +1,7 @@
 # JavaScript Resources
 
-A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-* [Awesome JavaScript](#awesome-javascript)
+* [JavaScript Resources]
   * [Package Managers](#package-managers)
   * [Component managment](#component-managment)
   * [Loaders](#loaders)
